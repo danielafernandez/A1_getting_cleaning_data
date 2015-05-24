@@ -28,8 +28,8 @@ The script assumes that a folder 'UCI HAR Dataset' is located in the same direct
 
 ### Libaries Used
 The script requires the following libraries:
-1. data.tables
-2. dplyr
+1. dplyr
+2. data.tables
 
 ### How the scripts work?
 The script that performs the analysis is called run_analysis.R.  This script will check if your R instance has installed the libraries required above. If they are not installed, the script will install them.
